@@ -12,4 +12,4 @@ How to display this project in your local machine.
 6. Once the file is opened, go to the terminal, type: streamlit run app.py and press enter.
 7. Open the local host URL (link) displayed after running the streamlit command and this should take you to the web app developed in this project.
 
-For Reviwers: This is the URL of my app on render: https://project4-ipgt.onrender.com 
+For Reviewers: This is the URL of my app on render: https://project4-ipgt.onrender.com 
