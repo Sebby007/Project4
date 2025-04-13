@@ -10,4 +10,4 @@ How to display this project in your local machine.
 4. Open the decompressed Project file. The project contains all the necessary folders and files to show the web app display on your own computer.
 5. Select the Streamlit folder and then open the config.toml file
 6. Once the file is opened, go to the terminal, type: streamlit run app.py and press enter.
-7. Open the local host URL displayed after running the streamlit command and this should take you to the web app developed in this project.
+7. Open the local host URL (link) displayed after running the streamlit command and this should take you to the web app developed in this project.
