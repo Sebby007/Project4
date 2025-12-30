@@ -44,6 +44,10 @@ These insights are displayed through an **interactive Streamlit dashboard** with
 
 ## 🚀 Try the Web App
 
+## 📸 App Preview
+
+![Dashboard Preview](Images/Screenshot%20(1042).png)
+
 Click below to explore the interactive dashboard:
 
 🔗 https://project4-ipgt.onrender.com
